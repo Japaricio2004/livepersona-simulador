@@ -13,7 +13,10 @@ Este proyecto está diseñado como una **experiencia educativa y experimental**,
 - 🎨 Interfaz visual moderna con efectos animados y 3D.
 - 🧩 Controles deslizantes para ajustar rasgos de personalidad.
 - 💻 Implementado con HTML, TailwindCSS y JavaScript.
-- ✨ Burbujas animadas y fondo dinámico que brindan una experiencia inmersiva.
 - 📱 Totalmente responsive para pantallas móviles y de escritorio.
+---
+
+👤 Autor
+Desarrollado por Jorge Aparicio 
 
 ---

@@ -17,6 +17,6 @@ Este proyecto está diseñado como una **experiencia educativa y experimental**,
 ---
 
 👤 Autor
-Desarrollado por Jorge Aparicio 
+- Desarrollado por Jorge Aparicio 
 
 ---

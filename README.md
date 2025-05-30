@@ -6,6 +6,9 @@ Este proyecto está diseñado como una **experiencia educativa y experimental**,
 
 > 🚨 *Este simulador es únicamente ilustrativo y no representa un diagnóstico psicológico profesional.*
 
+🔗 [Haz clic aquí para probar LivePersona](https://live-personasimulator.netlify.app/)
+
+
 ---
 
 ## 🚀 Características

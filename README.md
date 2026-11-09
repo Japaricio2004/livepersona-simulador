@@ -1,25 +1,34 @@
-# LivePersona – Simulador de Personalidades 🧠✨
+# LivePersona
 
-LivePersona es un simulador interactivo que permite al usuario configurar rasgos psicológicos básicos como **introversión**, **empatía** e **impulsividad**, y visualizar cómo estos pueden influir en la personalidad de un personaje simulado.
+LivePersona es un espacio privado de reflexión personal. Permite guardar notas sobre momentos cotidianos, volver a ellas después y usar ejercicios breves para pausar o aclarar una situación. No es un test psicológico ni una herramienta de diagnóstico.
 
-Este proyecto está diseñado como una **experiencia educativa y experimental**, combinando **interactividad**, **diseño moderno con TailwindCSS** y una interfaz inmersiva para explorar combinaciones únicas de la personalidad humana.  
+## Requisitos
 
-> 🚨 *Este simulador es únicamente ilustrativo y no representa un diagnóstico psicológico profesional.*
+- Node.js 20 o posterior
+- npm
 
-🔗 [Haz clic aquí para probar LivePersona](https://live-personasimulator.netlify.app/)
+## Desarrollo
 
+```bash
+npm install
+npm run dev
+```
 
----
+Vite abre la aplicación en el puerto 5173 o en el siguiente puerto disponible si ese ya está ocupado.
 
-## 🚀 Características
+## Compilar para producción
 
-- 🎨 Interfaz visual moderna con efectos animados y 3D.
-- 🧩 Controles deslizantes para ajustar rasgos de personalidad.
-- 💻 Implementado con HTML, TailwindCSS y JavaScript.
-- 📱 Totalmente responsive para pantallas móviles y de escritorio.
----
+```bash
+npm run build
+npm run preview
+```
 
-👤 Autor
-- Desarrollado por Jorge Aparicio 
+## Privacidad
 
----
+Las notas y preferencias se guardan en el almacenamiento local del navegador. No se envían a un servidor. La descarga del recorrido abre el diálogo de impresión del navegador; allí se puede elegir «Guardar como PDF».
+
+## Tecnologías
+
+- React
+- Vite
+- CSS

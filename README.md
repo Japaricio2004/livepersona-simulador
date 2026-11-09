@@ -23,6 +23,8 @@ npm run build
 npm run preview
 ```
 
+Netlify queda configurado mediante `netlify.toml` para ejecutar `npm run build` y publicar `dist/`.
+
 ## Privacidad
 
 Las notas y preferencias se guardan en el almacenamiento local del navegador. No se envían a un servidor. La descarga del recorrido abre el diálogo de impresión del navegador; allí se puede elegir «Guardar como PDF».
